@@ -1,9 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/rajeevmnnit)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/rajeev-kushwaha-158774b5/)](https://www.linkedin.com/in/rajeev-kushwaha-158774b5/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.rajeev)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/rajeev-)
+
 
 I'm
 Full Stack Solution Architect
